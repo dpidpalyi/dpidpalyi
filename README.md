@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img align="right" alt="Danil Pidpalyi" src="img/coding.gif" width="320px" />
+
 My name is Danil Pidpalyi and I love coding!
 
 - 🔭 I’m currently working as network engineer and studying at [21School](https://21-school.ru/) (carllane)
